@@ -1,5 +1,4 @@
 # Stock-Market-Prediction
-Python Code for Idris' Stock Market Prediction
 
 This repository contains a complete Google Colab workflow for predicting stock price direction using an uploaded CSV dataset provided by the user. The notebook covers the full pipeline, from exploratory data analysis and visualization to feature engineering, model training, and evaluation, using widely adopted machine learning libraries.
 The workflow supports flexible CSV inputs, performs robust date parsing across common formats, and incorporates calendar-based features, including quarter-end indicators. It generates descriptive statistics, distribution plots, boxplots, correlation heatmaps, and yearly aggregated visualizations to support data understanding before modeling.
